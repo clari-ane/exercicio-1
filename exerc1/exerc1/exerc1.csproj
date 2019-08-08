@@ -127,9 +127,19 @@
   <ItemGroup>
     <Content Include="Content\CSS\bootstrap.css" />
     <Content Include="Content\CSS\Site.css" />
+    <Content Include="Content\Img\depoimento-1.jpeg" />
+    <Content Include="Content\Img\depoimento-2.jpeg" />
+    <Content Include="Content\Img\depoimento-3.jpeg" />
     <Content Include="Content\Img\img-1.JPG" />
+    <Content Include="Content\Img\img-2.JPG" />
+    <Content Include="Content\Img\img-3.JPG" />
+    <Content Include="Content\Img\img-4.JPG" />
+    <Content Include="Content\Img\img-5.JPG" />
     <Content Include="Content\Img\img-download.JPG" />
     <Content Include="Content\Img\img-topo.JPG" />
+    <Content Include="Content\Img\logo-1.png" />
+    <Content Include="Content\Img\logo-2.png" />
+    <Content Include="Content\Img\logo-3.png" />
     <Content Include="Content\Img\logo-fb.png" />
     <Content Include="Content\Img\logo-insta.png" />
     <Content Include="Content\Img\logo-tt.png" />

@@ -53,4 +53,3 @@ C:\Users\Clarinha\Documents\GitHub\exercicio-1\exerc1\exerc1\obj\Debug\exerc1.cs
 C:\Users\Clarinha\Documents\GitHub\exercicio-1\exerc1\exerc1\obj\Debug\exerc1.csproj.CopyComplete
 C:\Users\Clarinha\Documents\GitHub\exercicio-1\exerc1\exerc1\obj\Debug\exerc1.dll
 C:\Users\Clarinha\Documents\GitHub\exercicio-1\exerc1\exerc1\obj\Debug\exerc1.pdb
-C:\Users\Clarinha\Documents\GitHub\exercicio-1\exerc1\exerc1\obj\Debug\exerc1.csprojAssemblyReference.cache
