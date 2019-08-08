@@ -1,0 +1,17 @@
+﻿#idimagem {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+#idimagem2 {
+    position: absolute;
+    left: 0px;
+    top: 4520px;
+}
+
+#idtexto {
+    position: absolute;
+    font-size: 10px;
+    top: 50px;
+}
